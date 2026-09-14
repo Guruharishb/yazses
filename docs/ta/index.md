@@ -50,6 +50,7 @@ YazSes என்பது Linux, macOS மற்றும் Windows ஆகி�
 
 | **தளம்**                              | **நிறுவல் கட்டளை**                                                                         |
 | ------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Linux**                             | `bash <(curl -fsSL https://raw.githubusercontent.com/MSKazemi/yazses/main/install.sh)`       |
 | **எந்த இயங்குதளமும்** (Python ≥ 3.11) | `pipx install yazses`                                                                      |
 | **Linux** (Debian/Ubuntu)             | `bash <(curl -fsSL https://raw.githubusercontent.com/MSKazemi/yazses/main/install-apt.sh)` |
 
